@@ -3,5 +3,9 @@
   "i18n-ally.localesPaths": [
     "public/locales"
   ],
-  "i18n-ally.keystyle": "flat"
+  "i18n-ally.keystyle": "flat",
+  "css.validate": false,
+  "scss.validate": false,
+  "stylelint.enable": true,
+  "stylelint.validate": ["css", "scss"]
 }

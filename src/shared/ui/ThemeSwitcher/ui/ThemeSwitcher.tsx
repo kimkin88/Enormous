@@ -1,4 +1,3 @@
-import React from 'react';
 import { Theme, useTheme } from 'app/providers/ThemeProvider';
 import { classNames } from 'shared/lib/classNames/classNames';
 import ThemeSwitcherIcon from 'shared/assets/icons/moon-theme.svg';
